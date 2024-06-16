@@ -4,7 +4,7 @@ as of 2024.06.16 \
 作成者：伊東秀晃 
 
 <pre>
-C:\USERS\HIDEC\99_OTHERS\オリジナルスウェット \
+GyoshuLogo
 │  README.md : me \
 │ \
 ├─out \
